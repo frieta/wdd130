@@ -20,8 +20,18 @@ main img {
 p {
     padding: 0;
 }
+aside h1 {
+    padding: 2px;
+}
 aside p {
     padding: 2px;
+}
+aside img {
+    width: 150px;
+    height:auto;
+    border: 1px;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
 }
 footer p {
     margin-top: 1px;
